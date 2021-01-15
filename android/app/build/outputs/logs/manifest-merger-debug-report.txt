@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8ab431fc46dcb28c10268e85ab465bcb\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\ac6a7dbb60be19b3603fb01af999558f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\00d6f0d8f7e06075f33bfad0438945d5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\7c0adf34eacc8b8a68ec601de564215f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\128dd0a74379586b35281c9e92378e42\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a3be094d34729613d954009e00c036ff\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\c73f3f6ebd9b0f08c59954cfb5817d94\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\48809db79bd29faadbfd961b26ef082f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b3959c27d509b5086510fb20afe8f8d9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b15984ef7dfc61853a92a08a65a06f6e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\ba6f3862bd0e38123748e44f2db24818\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cc25e99f1fa554cefbc22af99c6a09fa\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a28d921ec528fa03eb2e0b69ffba183f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\21fdb3ac7a1d3199ed73d49cdd2b9151\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\556cbe52ce6be40bade577bc297492e7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8838d9e161920aafda3d7e598890baab\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\4ea422109963616bd243dd4b3081cfd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\906cf31c29c538d7e4b5d197b896ca26\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cd4d8bc96a976db651fb54c8a2c71abd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a96fa19358a9d67b71181ed2adee059a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\47e73b6a11c60798b6637ea317b58ec0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a1727a4370bfaaa32e96235046b84b1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\41992f15cded89a82f88bb9b56bddc04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\4a349ccf9b482e5e82150b00ee10325d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\e27a1dd2e4817ead27711e20ffea458c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8628e38768d1f45b985f582beffe2e42\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\488aa7595e8649559e472f1fec04211b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\f21752f40513bcc23b29fd6412c38975\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\2f374b1d380bd244a42d9c23ec296c90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\bc947c9f4d53d4aa0f929d0b1f56be72\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b4d19fa1abeb2725d0627139e57cfe02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\68d14fab1691363d7acd2638a6cb4579\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\682363f68412fa94d8bdaec39228735d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\fb44f87cfa463574759938f2fe3f25ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\6b70b44913b438d4308cf6749e9b58d7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\52c908a6ea9da636982355b4a4b89237\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\5ed401d344f305e558878a7c55f435fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\6a38a1ef41a8c6d0b376c3c959d0fa1d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\157a9c3e965d11917274bdc3815e9e80\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8ab431fc46dcb28c10268e85ab465bcb\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8ab431fc46dcb28c10268e85ab465bcb\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\00d6f0d8f7e06075f33bfad0438945d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\00d6f0d8f7e06075f33bfad0438945d5\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cc25e99f1fa554cefbc22af99c6a09fa\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cc25e99f1fa554cefbc22af99c6a09fa\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\f21752f40513bcc23b29fd6412c38975\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\f21752f40513bcc23b29fd6412c38975\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\bc947c9f4d53d4aa0f929d0b1f56be72\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\bc947c9f4d53d4aa0f929d0b1f56be72\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\f21752f40513bcc23b29fd6412c38975\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.pharmalocal.MainActivity
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\moura\Documents\projeto pi\PharmaLocal\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8ab431fc46dcb28c10268e85ab465bcb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8ab431fc46dcb28c10268e85ab465bcb\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\ac6a7dbb60be19b3603fb01af999558f\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\ac6a7dbb60be19b3603fb01af999558f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\00d6f0d8f7e06075f33bfad0438945d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\00d6f0d8f7e06075f33bfad0438945d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\7c0adf34eacc8b8a68ec601de564215f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\7c0adf34eacc8b8a68ec601de564215f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\128dd0a74379586b35281c9e92378e42\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\128dd0a74379586b35281c9e92378e42\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a3be094d34729613d954009e00c036ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a3be094d34729613d954009e00c036ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\c73f3f6ebd9b0f08c59954cfb5817d94\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\c73f3f6ebd9b0f08c59954cfb5817d94\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\48809db79bd29faadbfd961b26ef082f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\48809db79bd29faadbfd961b26ef082f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b3959c27d509b5086510fb20afe8f8d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b3959c27d509b5086510fb20afe8f8d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b15984ef7dfc61853a92a08a65a06f6e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b15984ef7dfc61853a92a08a65a06f6e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\ba6f3862bd0e38123748e44f2db24818\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\ba6f3862bd0e38123748e44f2db24818\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cc25e99f1fa554cefbc22af99c6a09fa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cc25e99f1fa554cefbc22af99c6a09fa\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a28d921ec528fa03eb2e0b69ffba183f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a28d921ec528fa03eb2e0b69ffba183f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\21fdb3ac7a1d3199ed73d49cdd2b9151\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\21fdb3ac7a1d3199ed73d49cdd2b9151\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\556cbe52ce6be40bade577bc297492e7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\556cbe52ce6be40bade577bc297492e7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8838d9e161920aafda3d7e598890baab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8838d9e161920aafda3d7e598890baab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\4ea422109963616bd243dd4b3081cfd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\4ea422109963616bd243dd4b3081cfd8\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\906cf31c29c538d7e4b5d197b896ca26\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\906cf31c29c538d7e4b5d197b896ca26\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cd4d8bc96a976db651fb54c8a2c71abd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\cd4d8bc96a976db651fb54c8a2c71abd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a96fa19358a9d67b71181ed2adee059a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a96fa19358a9d67b71181ed2adee059a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\47e73b6a11c60798b6637ea317b58ec0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\47e73b6a11c60798b6637ea317b58ec0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a1727a4370bfaaa32e96235046b84b1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\a1727a4370bfaaa32e96235046b84b1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\41992f15cded89a82f88bb9b56bddc04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\41992f15cded89a82f88bb9b56bddc04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\4a349ccf9b482e5e82150b00ee10325d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\4a349ccf9b482e5e82150b00ee10325d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\e27a1dd2e4817ead27711e20ffea458c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\e27a1dd2e4817ead27711e20ffea458c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8628e38768d1f45b985f582beffe2e42\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\8628e38768d1f45b985f582beffe2e42\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\488aa7595e8649559e472f1fec04211b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\488aa7595e8649559e472f1fec04211b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\f21752f40513bcc23b29fd6412c38975\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\f21752f40513bcc23b29fd6412c38975\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\2f374b1d380bd244a42d9c23ec296c90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\2f374b1d380bd244a42d9c23ec296c90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\bc947c9f4d53d4aa0f929d0b1f56be72\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\bc947c9f4d53d4aa0f929d0b1f56be72\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b4d19fa1abeb2725d0627139e57cfe02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\b4d19fa1abeb2725d0627139e57cfe02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\68d14fab1691363d7acd2638a6cb4579\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\68d14fab1691363d7acd2638a6cb4579\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\682363f68412fa94d8bdaec39228735d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\682363f68412fa94d8bdaec39228735d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\fb44f87cfa463574759938f2fe3f25ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\fb44f87cfa463574759938f2fe3f25ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\6b70b44913b438d4308cf6749e9b58d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\6b70b44913b438d4308cf6749e9b58d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\52c908a6ea9da636982355b4a4b89237\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\52c908a6ea9da636982355b4a4b89237\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\5ed401d344f305e558878a7c55f435fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\5ed401d344f305e558878a7c55f435fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\6a38a1ef41a8c6d0b376c3c959d0fa1d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\6a38a1ef41a8c6d0b376c3c959d0fa1d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\157a9c3e965d11917274bdc3815e9e80\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\moura\.gradle\caches\transforms-2\files-2.1\157a9c3e965d11917274bdc3815e9e80\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\moura\Documents\projeto pi\PharmaLocal\android\app\src\debug\AndroidManifest.xml:5:22-75
